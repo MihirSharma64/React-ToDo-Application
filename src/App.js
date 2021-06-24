@@ -1,6 +1,7 @@
+import Todo from './Compoents/Todo';
 function App() {
   return (
-    <h1>Hello</h1>
+    <Todo/>
   );
 }
 
